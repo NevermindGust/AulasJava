@@ -1,0 +1,3 @@
+$Env:path += ';C:\Arquivos de Programas\Java\jdk1.8.0_211\bin'
+
+set PATH=%PATH%;C:\Progra~1\Java\jdk\bin 
